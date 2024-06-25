@@ -1,4 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi👋, I'm Bryan</h1>
+
+<h1 align="center">A software developer from Puerto Rico 🇵🇷 🇺🇸</h1>
+
+## 👨‍💻About Me
+  - I have a bachelor's degree in Computer Science from the University of Puerto Rico at Bayamón
+  - 2 year of experience as Tech Support
+  - 3 years of experience as server administrator (IT Coordinator)
+  - CompTIA Network+ Certified 
+
+
+## 📚Learning
+  - Python and Django
+  - Harvard CS50 (Relearning a lot after many years of no coding)
+  - Cybersecurity Certification
+
+## 🎮 Hobbies
+  - Programming
+  - Watch anime and TV Shows
+  - Play Videogames
+  - Etc...
+
+
 
 <!--
 **Bryken00173/bryken00173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
