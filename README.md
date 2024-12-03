@@ -10,9 +10,9 @@
 
 
 ## 📚Learning
-  - Python and Django
+  - PHP and Laravel Framework
   - Harvard CS50 (Relearning a lot after many years of no coding)
-  - Cybersecurity Certification
+
 
 ## 🎮 Hobbies
   - Programming
